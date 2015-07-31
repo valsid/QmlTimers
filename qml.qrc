@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>TimerSettings.qml</file>
+        <file>TimerSettingsForm.ui.qml</file>
+        <file>timerSignal.wav</file>
+    </qresource>
+</RCC>
